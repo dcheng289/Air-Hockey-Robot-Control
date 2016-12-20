@@ -1,0 +1,18 @@
+﻿Build started 12/20/2016 12:50:39 AM.
+     1>Project "C:\Users\Derek\Documents\Visual Studio 2013\Projects\AH_Vision\AH_Vision\AH_Vision.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Derek\Documents\Visual Studio 2013\Projects\AH_Vision\serial" /IC:\Users\Derek\Documents\opencv\build\\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\AH_Vision.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AH_Vision.cpp
+         AH_Vision.cpp
+     1>c:\users\derek\documents\visual studio 2013\projects\ah_vision\ah_vision\ah_vision.cpp(97): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\derek\documents\visual studio 2013\projects\ah_vision\ah_vision\ah_vision.cpp(98): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\derek\documents\visual studio 2013\projects\ah_vision\ah_vision\ah_vision.cpp(180): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\derek\documents\visual studio 2013\projects\ah_vision\ah_vision\ah_vision.cpp(195): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\derek\documents\visual studio 2013\projects\ah_vision\ah_vision\ah_vision.cpp(356): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\derek\documents\visual studio 2013\projects\ah_vision\ah_vision\ah_vision.cpp(372): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\derek\documents\visual studio 2013\projects\ah_vision\ah_vision\ah_vision.cpp(419): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\derek\documents\visual studio 2013\projects\ah_vision\ah_vision\ah_vision.cpp(438): warning C4018: '<' : signed/unsigned mismatch
+     1>Done Building Project "C:\Users\Derek\Documents\Visual Studio 2013\Projects\AH_Vision\AH_Vision\AH_Vision.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.65
