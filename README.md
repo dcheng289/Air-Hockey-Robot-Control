@@ -18,9 +18,9 @@ As trajectory tracking develops, it can be used in applications such as finding 
 shooting down drones flying over restricted airspace.  To test the limitations of a 
 trajectory tracking system, the concept was applied to build an air hockey robot that 
 was controlled by a dual-axis stepper motor H-Bot configuration and vision system. 
-The goal was to detect a puck travelling at less than 102 ft/s, predict and intercept 
+The goal was to detect a puck travelling at less than 10±2 ft/s, predict and intercept 
 its trajectory, and hit it back at towards a human player 100% of the time. Experimental 
-results showed that the robot system was able to intercept pucks moving up to 122 ft/s 
+results showed that the robot system was able to intercept pucks moving up to 12±2 ft/s 
 but without perfect accuracy. Straight moving pucks were returned with 90.5% accuracy 
 and pucks that bounced off the sidewall with a 85.1% accuracy, thus the robot failed to 
 meet expectations. Future iterations of the robot would implement closed-loop motor 
